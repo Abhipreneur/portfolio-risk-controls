@@ -1,0 +1,7 @@
+exception_id,valuation_date,portfolio_id,control_id,control_name,entity_type,entity_name,metric_name,metric_value,warning_threshold,critical_threshold,unit,status,exception_status,exception_description
+EXC0001,2026-09-30,PORT001,RISK001,Single Security Concentration,Security,RELIANCE.NS,security_weight_pct,9.9998815,8.0,10.0,percent,AMBER,OPEN,RELIANCE.NS security exposure is 9.9999%.
+EXC0002,2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Financials,sector_weight_pct,23.999844849523924,20.0,25.0,percent,AMBER,OPEN,Financials sector exposure is 23.9998%.
+EXC0003,2026-09-30,PORT001,RISK003,Top 5 Concentration,Portfolio,PORT001,top_5_weight_pct,31.999678676745607,30.0,35.0,percent,AMBER,OPEN,Top 5 securities represent 31.9997% of portfolio AUM.
+EXC0004,2026-09-30,PORT001,RISK005,Historical 99% VaR,Portfolio,PORT001,historical_var_99_pct,2.0802422606561297,2.0,2.5,percent,AMBER,OPEN,99% Historical VaR is 2.0802% of portfolio AUM.
+EXC0005,2026-09-30,PORT001,RISK006,Historical 99% Expected Shortfall,Portfolio,PORT001,historical_es_99_pct,2.8123696080889,2.5,3.5,percent,AMBER,OPEN,99% Historical Expected Shortfall is 2.8124% of portfolio AUM.
+EXC0006,2026-09-30,PORT001,RISK008,Worst Stress Scenario Loss,Portfolio,PORT001,max_stress_loss_pct,8.079809139215335,7.0,10.0,percent,AMBER,OPEN,Worst stress scenario is 'Severe Combined Shock' with a portfolio loss of 8.0798%.

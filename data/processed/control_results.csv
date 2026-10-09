@@ -1,0 +1,67 @@
+valuation_date,portfolio_id,control_id,control_name,entity_type,entity_name,metric_name,metric_value,warning_threshold,critical_threshold,unit,status,exception_description
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,RELIANCE.NS,security_weight_pct,9.9998815,8.0,10.0,percent,AMBER,RELIANCE.NS security exposure is 9.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,HDFCBANK.NS,security_weight_pct,5.999996043347168,8.0,10.0,percent,GREEN,HDFCBANK.NS security exposure is 6.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,LT.NS,security_weight_pct,5.9998320000000005,8.0,10.0,percent,GREEN,LT.NS security exposure is 5.9998%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,ICICIBANK.NS,security_weight_pct,4.999990915283203,8.0,10.0,percent,GREEN,ICICIBANK.NS security exposure is 5.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,TCS.NS,security_weight_pct,4.999978218115234,8.0,10.0,percent,GREEN,TCS.NS security exposure is 5.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,INFY.NS,security_weight_pct,4.999925237207032,8.0,10.0,percent,GREEN,INFY.NS security exposure is 4.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,BHARTIARTL.NS,security_weight_pct,4.9998949,8.0,10.0,percent,GREEN,BHARTIARTL.NS security exposure is 4.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,ULTRACEMCO.NS,security_weight_pct,4.9992228,8.0,10.0,percent,GREEN,ULTRACEMCO.NS security exposure is 4.9992%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,ITC.NS,security_weight_pct,3.999974625,8.0,10.0,percent,GREEN,ITC.NS security exposure is 4.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,SBIN.NS,security_weight_pct,3.9999636,8.0,10.0,percent,GREEN,SBIN.NS security exposure is 4.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,AXISBANK.NS,security_weight_pct,3.9999476,8.0,10.0,percent,GREEN,AXISBANK.NS security exposure is 3.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,HINDUNILVR.NS,security_weight_pct,3.9998522080322263,8.0,10.0,percent,GREEN,HINDUNILVR.NS security exposure is 3.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,M&M.NS,security_weight_pct,3.4998799999999997,8.0,10.0,percent,GREEN,M&M.NS security exposure is 3.4999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,MARUTI.NS,security_weight_pct,3.4991508,8.0,10.0,percent,GREEN,MARUTI.NS security exposure is 3.4992%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,TMPV.NS,security_weight_pct,2.999997,8.0,10.0,percent,GREEN,TMPV.NS security exposure is 3.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,TECHM.NS,security_weight_pct,2.999994,8.0,10.0,percent,GREEN,TECHM.NS security exposure is 3.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,WIPRO.NS,security_weight_pct,2.9999929,8.0,10.0,percent,GREEN,WIPRO.NS security exposure is 3.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,KOTAKBANK.NS,security_weight_pct,2.9999814,8.0,10.0,percent,GREEN,KOTAKBANK.NS security exposure is 3.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,SUNPHARMA.NS,security_weight_pct,2.999933199682617,8.0,10.0,percent,GREEN,SUNPHARMA.NS security exposure is 2.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,TITAN.NS,security_weight_pct,2.999898,8.0,10.0,percent,GREEN,TITAN.NS security exposure is 2.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,DRREDDY.NS,security_weight_pct,2.999889,8.0,10.0,percent,GREEN,DRREDDY.NS security exposure is 2.9999%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,POWERGRID.NS,security_weight_pct,2.49999245,8.0,10.0,percent,GREEN,POWERGRID.NS security exposure is 2.5000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,NTPC.NS,security_weight_pct,2.499989225,8.0,10.0,percent,GREEN,NTPC.NS security exposure is 2.5000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,BAJFINANCE.NS,security_weight_pct,1.9999652908935543,8.0,10.0,percent,GREEN,BAJFINANCE.NS security exposure is 2.0000%.
+2026-09-30,PORT001,RISK001,Single Security Concentration,Security,ASIANPAINT.NS,security_weight_pct,1.9999243212890625,8.0,10.0,percent,GREEN,ASIANPAINT.NS security exposure is 1.9999%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Financials,sector_weight_pct,23.999844849523924,20.0,25.0,percent,AMBER,Financials sector exposure is 23.9998%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Information Technology,sector_weight_pct,15.999890355322266,20.0,25.0,percent,GREEN,Information Technology sector exposure is 15.9999%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Energy,sector_weight_pct,9.9998815,20.0,25.0,percent,GREEN,Energy sector exposure is 9.9999%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Automobile,sector_weight_pct,9.9990278,20.0,25.0,percent,GREEN,Automobile sector exposure is 9.9990%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Consumer Staples,sector_weight_pct,7.999826833032227,20.0,25.0,percent,GREEN,Consumer Staples sector exposure is 7.9998%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Industrials,sector_weight_pct,5.9998320000000005,20.0,25.0,percent,GREEN,Industrials sector exposure is 5.9998%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Healthcare,sector_weight_pct,5.999822199682617,20.0,25.0,percent,GREEN,Healthcare sector exposure is 5.9998%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Utilities,sector_weight_pct,4.999981675000001,20.0,25.0,percent,GREEN,Utilities sector exposure is 5.0000%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Telecommunication,sector_weight_pct,4.9998949,20.0,25.0,percent,GREEN,Telecommunication sector exposure is 4.9999%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Consumer Discretionary,sector_weight_pct,4.999822321289063,20.0,25.0,percent,GREEN,Consumer Discretionary sector exposure is 4.9998%.
+2026-09-30,PORT001,RISK002,Sector Concentration,Sector,Materials,sector_weight_pct,4.9992228,20.0,25.0,percent,GREEN,Materials sector exposure is 4.9992%.
+2026-09-30,PORT001,RISK003,Top 5 Concentration,Portfolio,PORT001,top_5_weight_pct,31.999678676745607,30.0,35.0,percent,AMBER,Top 5 securities represent 31.9997% of portfolio AUM.
+2026-09-30,PORT001,RISK004,Cash Exposure,Portfolio,PORT001,cash_weight_pct,0.002952766149902344,5.0,10.0,percent,GREEN,Cash exposure is 0.0030% of portfolio AUM.
+2026-09-30,PORT001,RISK005,Historical 99% VaR,Portfolio,PORT001,historical_var_99_pct,2.0802422606561297,2.0,2.5,percent,AMBER,99% Historical VaR is 2.0802% of portfolio AUM.
+2026-09-30,PORT001,RISK006,Historical 99% Expected Shortfall,Portfolio,PORT001,historical_es_99_pct,2.8123696080889,2.5,3.5,percent,AMBER,99% Historical Expected Shortfall is 2.8124% of portfolio AUM.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,ULTRACEMCO.NS,days_to_liquidate,0.0844337039065622,1.0,3.0,trading_days,GREEN,ULTRACEMCO.NS requires 0.0844 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,HINDUNILVR.NS,days_to_liquidate,0.0830623317125395,1.0,3.0,trading_days,GREEN,HINDUNILVR.NS requires 0.0831 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,ASIANPAINT.NS,days_to_liquidate,0.0817267314943051,1.0,3.0,trading_days,GREEN,ASIANPAINT.NS requires 0.0817 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,ITC.NS,days_to_liquidate,0.0710610626799043,1.0,3.0,trading_days,GREEN,ITC.NS requires 0.0711 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,DRREDDY.NS,days_to_liquidate,0.0670561749393903,1.0,3.0,trading_days,GREEN,DRREDDY.NS requires 0.0671 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,TECHM.NS,days_to_liquidate,0.0582083054809721,1.0,3.0,trading_days,GREEN,TECHM.NS requires 0.0582 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,SUNPHARMA.NS,days_to_liquidate,0.056115149619048,1.0,3.0,trading_days,GREEN,SUNPHARMA.NS requires 0.0561 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,TITAN.NS,days_to_liquidate,0.0555771925138711,1.0,3.0,trading_days,GREEN,TITAN.NS requires 0.0556 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,NTPC.NS,days_to_liquidate,0.054599214633799,1.0,3.0,trading_days,GREEN,NTPC.NS requires 0.0546 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,LT.NS,days_to_liquidate,0.0542181348771327,1.0,3.0,trading_days,GREEN,LT.NS requires 0.0542 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,WIPRO.NS,days_to_liquidate,0.0527315246831393,1.0,3.0,trading_days,GREEN,WIPRO.NS requires 0.0527 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,TMPV.NS,days_to_liquidate,0.0522893706619945,1.0,3.0,trading_days,GREEN,TMPV.NS requires 0.0523 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,POWERGRID.NS,days_to_liquidate,0.0503975479512563,1.0,3.0,trading_days,GREEN,POWERGRID.NS requires 0.0504 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,MARUTI.NS,days_to_liquidate,0.0412520301529203,1.0,3.0,trading_days,GREEN,MARUTI.NS requires 0.0413 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,TCS.NS,days_to_liquidate,0.0409151282675763,1.0,3.0,trading_days,GREEN,TCS.NS requires 0.0409 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,RELIANCE.NS,days_to_liquidate,0.0366409448495129,1.0,3.0,trading_days,GREEN,RELIANCE.NS requires 0.0366 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,AXISBANK.NS,days_to_liquidate,0.0347030921565576,1.0,3.0,trading_days,GREEN,AXISBANK.NS requires 0.0347 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,M&M.NS,days_to_liquidate,0.0314150746125233,1.0,3.0,trading_days,GREEN,M&M.NS requires 0.0314 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,INFY.NS,days_to_liquidate,0.0286309914623278,1.0,3.0,trading_days,GREEN,INFY.NS requires 0.0286 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,KOTAKBANK.NS,days_to_liquidate,0.0284266734389337,1.0,3.0,trading_days,GREEN,KOTAKBANK.NS requires 0.0284 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,BHARTIARTL.NS,days_to_liquidate,0.0266430168579787,1.0,3.0,trading_days,GREEN,BHARTIARTL.NS requires 0.0266 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,SBIN.NS,days_to_liquidate,0.0258824592764294,1.0,3.0,trading_days,GREEN,SBIN.NS requires 0.0259 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,ICICIBANK.NS,days_to_liquidate,0.0214951672409241,1.0,3.0,trading_days,GREEN,ICICIBANK.NS requires 0.0215 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,BAJFINANCE.NS,days_to_liquidate,0.0172991490662596,1.0,3.0,trading_days,GREEN,BAJFINANCE.NS requires 0.0173 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK007,Days to Liquidate,Security,HDFCBANK.NS,days_to_liquidate,0.0151665869773846,1.0,3.0,trading_days,GREEN,HDFCBANK.NS requires 0.0152 trading days to liquidate at the configured maximum participation rate.
+2026-09-30,PORT001,RISK008,Worst Stress Scenario Loss,Portfolio,PORT001,max_stress_loss_pct,8.079809139215335,7.0,10.0,percent,AMBER,Worst stress scenario is 'Severe Combined Shock' with a portfolio loss of 8.0798%.

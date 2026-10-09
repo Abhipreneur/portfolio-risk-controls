@@ -1,0 +1,2 @@
+valuation_date,portfolio_id,benchmark,aligned_return_observations,start_date,end_date,beta,correlation,r_squared,portfolio_annualized_volatility,benchmark_annualized_volatility,annualized_tracking_error,annualized_active_return,information_ratio,portfolio_cumulative_return,benchmark_cumulative_return
+2026-09-30,PORT001,NIFTY 50,738,2023-10-04,2026-09-30,0.9588081643779667,0.9763579566089797,0.9532748594336623,0.13048516408363883,0.1328735328981484,0.028731811153350554,0.00921444672104185,0.3207053906856585,0.19112191458437677,0.15831526435383592

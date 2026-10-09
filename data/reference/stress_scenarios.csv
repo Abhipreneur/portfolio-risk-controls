@@ -1,0 +1,7 @@
+scenario_id,scenario_name,shock_scope,shock_target,shock_pct
+STRESS001,Broad Market Selloff,PORTFOLIO,ALL,-5
+STRESS002,Financial Sector Shock,SECTOR,Financials,-10
+STRESS003,IT Correction,SECTOR,Information Technology,-8
+STRESS004,Severe Combined Shock,PORTFOLIO,ALL,-6
+STRESS004,Severe Combined Shock,SECTOR,Financials,-12
+STRESS004,Severe Combined Shock,SECTOR,Information Technology,-10

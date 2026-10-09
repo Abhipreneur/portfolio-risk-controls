@@ -1,0 +1,2 @@
+valuation_date,portfolio_id,return_observations,average_daily_return,daily_volatility,annualized_volatility,cumulative_return,maximum_drawdown,max_drawdown_date,best_daily_return,worst_daily_return
+2026-09-30,PORT001,743,0.0002689546750337538,0.008192081132812706,0.1300452563849203,0.19112191458437944,-0.15084985126343875,2025-03-04,0.03561521132747923,-0.049810428978121844

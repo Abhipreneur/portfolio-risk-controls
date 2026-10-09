@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / credentials
+.env
+.env.*
+
+# Logs
+*.log
+
+# VS Code local settings
+.vscode/
+
+# Power BI temporary / lock files
+~$*.pbix

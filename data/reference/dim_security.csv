@@ -1,0 +1,26 @@
+security_id,ticker,company_name,sector,exchange,currency
+1,RELIANCE.NS,Reliance Industries,Energy,NSE,INR
+2,HDFCBANK.NS,HDFC Bank,Financials,NSE,INR
+3,ICICIBANK.NS,ICICI Bank,Financials,NSE,INR
+4,INFY.NS,Infosys,Information Technology,NSE,INR
+5,TCS.NS,Tata Consultancy Services,Information Technology,NSE,INR
+6,BHARTIARTL.NS,Bharti Airtel,Telecommunication,NSE,INR
+7,SBIN.NS,State Bank of India,Financials,NSE,INR
+8,ITC.NS,ITC,Consumer Staples,NSE,INR
+9,LT.NS,Larsen & Toubro,Industrials,NSE,INR
+10,AXISBANK.NS,Axis Bank,Financials,NSE,INR
+11,KOTAKBANK.NS,Kotak Mahindra Bank,Financials,NSE,INR
+12,MARUTI.NS,Maruti Suzuki,Automobile,NSE,INR
+13,SUNPHARMA.NS,Sun Pharmaceutical,Healthcare,NSE,INR
+14,TITAN.NS,Titan Company,Consumer Discretionary,NSE,INR
+15,BAJFINANCE.NS,Bajaj Finance,Financials,NSE,INR
+16,HINDUNILVR.NS,Hindustan Unilever,Consumer Staples,NSE,INR
+17,NTPC.NS,NTPC,Utilities,NSE,INR
+18,M&M.NS,Mahindra & Mahindra,Automobile,NSE,INR
+19,TMPV.NS,Tata Motors Passenger Vehicles,Automobile,NSE,INR
+20,POWERGRID.NS,Power Grid Corporation,Utilities,NSE,INR
+21,ASIANPAINT.NS,Asian Paints,Consumer Discretionary,NSE,INR
+22,ULTRACEMCO.NS,UltraTech Cement,Materials,NSE,INR
+23,TECHM.NS,Tech Mahindra,Information Technology,NSE,INR
+24,WIPRO.NS,Wipro,Information Technology,NSE,INR
+25,DRREDDY.NS,Dr. Reddy's Laboratories,Healthcare,NSE,INR

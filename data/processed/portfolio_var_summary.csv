@@ -1,0 +1,3 @@
+valuation_date,portfolio_id,method,holding_period_days,confidence_level,historical_observations,tail_observations,var_pct,var_amount,expected_shortfall_pct,expected_shortfall_amount
+2026-09-30,PORT001,Historical,1,0.95,743,38,0.013582742890849193,13582742.890849194,0.01822181694357995,18221816.94357995
+2026-09-30,PORT001,Historical,1,0.99,743,8,0.020802422606561313,20802422.606561314,0.028123696080889077,28123696.080889076
