@@ -9,6 +9,10 @@ The project combines **Python analytics, PostgreSQL data modeling, automated ris
 > **Target AUM:** ₹100 Crore  
 > **Benchmark:** NIFTY 50
 
+## Live Dashboard
+
+View the Interactive Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiM2Q3MmRmMDUtN2IwMS00MDY1LTk3ZWMtMWQzYjA1OTVlZjNhIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9
+
 ---
 
 ## Overview
@@ -398,6 +402,10 @@ Risk thresholds in this project are management-configured hypothetical assumptio
 
 # Power BI Dashboard
 
+### Interactive Dashboard
+
+Open the live Power BI report: https://app.powerbi.com/view?r=eyJrIjoiM2Q3MmRmMDUtN2IwMS00MDY1LTk3ZWMtMWQzYjA1OTVlZjNhIiwidCI6IjhhMTk4ODczLTRmZWMtNGU3Ni04MTgyLWNhNDc5ZWRiYmQ2MCIsImMiOjZ9
+
 The reporting layer contains three management-focused pages.
 
 ## 1. Executive Risk Overview
@@ -718,7 +726,7 @@ portfolio-risk-controls/
 ## 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Abhipreneur/portfolio-risk-controls.git
 cd portfolio-risk-controls
 ```
 
